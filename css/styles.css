@@ -442,9 +442,7 @@ footer {
     .about-content {
         flex-direction: column;
     }
-     .hero-content{
-        margin-top:20rem;
-    }
+    
     .hero h2 {
         font-size: 2.5rem;
     }
@@ -474,9 +472,7 @@ footer {
     .hero h2 {
         font-size: 2rem;
     }
-    .hero-content{
-        margin-top:20rem;
-    }
+ 
     .section-title h2 {
         font-size: 2rem;
     }
@@ -674,6 +670,7 @@ footer {
     
     .hero-content {
         padding-top: 80px;
+        margin-top:80px;
     }
 }
 
