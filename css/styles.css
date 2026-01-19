@@ -446,6 +446,9 @@ footer {
     .hero h2 {
         font-size: 2.5rem;
     }
+       .hero-content{
+        margin-top:20rem;
+    }
 }
 
 @media (max-width: 768px) {
@@ -475,6 +478,9 @@ footer {
  
     .section-title h2 {
         font-size: 2rem;
+    }
+       .hero-content{
+        margin-top:20rem;
     }
 }
 
@@ -672,6 +678,7 @@ footer {
         padding-top: 80px;
         margin-top:80px;
     }
+  
 }
 
 @media (max-width: 480px) {
@@ -687,4 +694,5 @@ footer {
     .slider-dots {
         bottom: 15px;
     }
+    
 }
